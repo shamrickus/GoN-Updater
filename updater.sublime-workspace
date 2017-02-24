@@ -1,0 +1,357 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "updater.py",
+			"settings":
+			{
+				"buffer_size": 14,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "Packages/Python/Python.sublime-build",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Gulp",
+					""
+				],
+				[
+					"Packages/TypeScript/TypeScript.sublime-build",
+					""
+				]
+			],
+			[
+				"Gulp",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				"Syntax Check"
+			]
+		]
+	],
+	"build_varint": "Syntax Check",
+	"command_palette":
+	{
+		"height": 354.0,
+		"last_filter": "pip ",
+		"selected_items":
+		[
+			[
+				"pip ",
+				"Package Control: Install Package"
+			],
+			[
+				"pi",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"Gulp"
+			],
+			[
+				"gulp",
+				"Gulp"
+			],
+			[
+				"package install",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Install Package Control"
+			]
+		],
+		"width": 382.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/crusherexe/Desktop/dev/updater"
+	],
+	"file_history":
+	[
+		"/C/Users/crusherexe/Desktop/dev/gon/GloryOfNephilim/app/views/faq.blade.php",
+		"/C/Users/crusherexe/Desktop/dev/gon/GloryOfNephilim/app/views/tools/runeword.blade.php",
+		"/C/Users/crusherexe/Desktop/dev/gon/GloryOfNephilim/public/source/home/home.component.ts",
+		"/C/Users/crusherexe/Desktop/dev/gon/GloryOfNephilim/public/source/components/buttons/gon-menu.component.ts",
+		"/C/Users/crusherexe/Desktop/dev/gon/GloryOfNephilim/app/views/patches.blade.php",
+		"/C/Users/crusherexe/Desktop/dev/gon/GloryOfNephilim/public/source/components/card/gon-card.scss",
+		"/C/Users/crusherexe/Desktop/dev/gon/GloryOfNephilim/app/views/template.blade.php",
+		"/C/Users/crusherexe/Desktop/dev/gon/GloryOfNephilim/public/node_modules/typescript/lib/lib.es6.d.ts",
+		"/C/Users/crusherexe/Desktop/dev/gon/GloryOfNephilim/public/source/components/buttons/gon-button.component.ts",
+		"/C/Users/crusherexe/Desktop/dev/gon/GloryOfNephilim/public/source/app.scss",
+		"/C/Users/crusherexe/Desktop/dev/gon/GloryOfNephilim/app/views/home/home.blade.php",
+		"/C/Users/crusherexe/Desktop/dev/gon/GloryOfNephilim/public/source/home/home.tmpl.html",
+		"/C/Users/crusherexe/Desktop/dev/gon/GloryOfNephilim/public/source/home/home.scss",
+		"/C/Users/crusherexe/Desktop/dev/gon/GloryOfNephilim/public/source/components/buttons/gon-menu.scss",
+		"/C/Users/crusherexe/Desktop/dev/gon/GloryOfNephilim/public/source/components/buttons/gon-menu.template.html",
+		"/C/Users/crusherexe/Desktop/dev/gon/GloryOfNephilim/gon.sublime-project",
+		"/C/Users/crusherexe/Desktop/dev/gon/GloryOfNephilim/public/source/components/buttons/gon-button.template.html",
+		"/C/Users/crusherexe/Desktop/dev/Ty/ty.sublime-project",
+		"/C/Users/crusherexe/Desktop/dev/gon/GloryOfNephilim/bootstrap/paths.php",
+		"/C/Users/crusherexe/Desktop/dev/gon/GloryOfNephilim/public/source/app_conflict-20170201-110708.ts"
+	],
+	"find":
+	{
+		"height": 29.0
+	},
+	"find_in_files":
+	{
+		"height": 158.0,
+		"where_history":
+		[
+			"app.scss",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"*",
+			"Mod",
+			"10px",
+			"top",
+			";\n",
+			"width",
+			";\n",
+			"div.b([\\,\\s])",
+			"div.b, ",
+			"div.b([\\s\\,]) ",
+			"div.t([\\s\\,])",
+			"div.t[\\s\\,]",
+			"div.t[\\s",
+			"h2",
+			"h3",
+			"b>",
+			"<b",
+			"b",
+			"northern",
+			"level",
+			"div",
+			"crafted",
+			"gr",
+			"li",
+			"Mercenary",
+			"name",
+			"he",
+			"general",
+			">- ",
+			"- ",
+			"li",
+			"changelog",
+			"0,",
+			"0",
+			"style",
+			"sdtdring",
+			"stirng",
+			"filter",
+			"active()",
+			"active",
+			"self",
+			"this",
+			"gonCard"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			"div.bottom\\1",
+			"div.top\\1"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "updater.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 14,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								14,
+								14
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 29.0
+	},
+	"input":
+	{
+		"height": 64.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.doc":
+	{
+		"height": 0.0
+	},
+	"output.exec":
+	{
+		"height": 401.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.gulp_output":
+	{
+		"height": 138.0
+	},
+	"pinned_build_system": "",
+	"project": "updater.sublime-project",
+	"replace":
+	{
+		"height": 54.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"patch",
+				"app\\views\\patches.blade.php"
+			],
+			[
+				"template",
+				"app\\views\\template.blade.php"
+			],
+			[
+				"app.scss",
+				"public\\source\\app.scss"
+			],
+			[
+				"app.scs",
+				"GloryOfNephilim\\public\\source\\app.scss"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 260.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
